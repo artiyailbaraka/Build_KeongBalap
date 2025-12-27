@@ -1,0 +1,3 @@
+[submodule "kernel"]
+	path = kernel
+	url = https://github.com/artiyailbaraka/KeongBalap_kernel.git
